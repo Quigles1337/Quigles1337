@@ -81,6 +81,10 @@ Some signals will come from minds nobody has met yet. For those we are building 
   <img src="./assets/pillars.svg" width="100%" alt="An untranslated inscription in the alien script, hung between two pillars. The image file lists its signs in words for readers who cannot see them.">
 </p>
 
+<p align="center">
+  <img src="./assets/seal.svg" width="380" alt="A round seal that moves. Eight points on a circle are numbered in beads, one to eight. A star joins them in counting order, and spiral arms fall from each point to the centre.">
+</p>
+
 Research transmissions are indexed under ORCID [0009-0008-9019-7631](https://orcid.org/0009-0008-9019-7631).
 
 <details>
@@ -94,6 +98,8 @@ Research transmissions are indexed under ORCID [0009-0008-9019-7631](https://orc
 The footer below reads: *we come in peace and pull requests.*
 
 The inscription between the pillars is yours to read. The key is enough.
+
+The seal beneath it is numbered in beads, one to eight. Take its points in order and you walk the star: every step is three eighths of a turn, and the eighth is home.
 
 Numbers hang from a beam and are counted, not named. 1337 is one bead, then three, three, and seven.
 
