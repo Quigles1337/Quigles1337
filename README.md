@@ -88,14 +88,16 @@ Research transmissions are indexed under ORCID [0009-0008-9019-7631](https://orc
 <br>
 
 <p align="center">
-  <img src="./assets/glyphs.svg" width="100%" alt="Sign key for the alien script: letters in a grid by shape and ending, numbers counted as beads on two cords, and one sign annotated as a worked example.">
+  <img src="./assets/glyphs.svg" width="100%" alt="Sign key for the alien script: letters in a grid by shape and ending, numbers counted as beads hung from a beam, and one sign annotated as a worked example.">
 </p>
 
 The footer below reads: *we come in peace and pull requests.*
 
 The inscription between the pillars is yours to read. The key is enough.
 
-Numbers are counted, not named. 1337 is one bead, then three, three, and seven.
+Numbers hang from a beam and are counted, not named. 1337 is one bead, then three, three, and seven.
+
+Dots come in twos. A lone dot is damage, not a letter.
 
 </details>
 
