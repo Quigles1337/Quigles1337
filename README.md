@@ -99,6 +99,8 @@ Numbers hang from a beam and are counted, not named. 1337 is one bead, then thre
 
 Dots come in twos. A lone dot is damage, not a letter.
 
+**Check it:** clone this repository and run `python3 signs/check.py`. It reads every inscription back out of the images. The [sign table](./signs) is the script's one definition.
+
 </details>
 
 <br>
