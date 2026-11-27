@@ -87,6 +87,10 @@ Some signals will come from minds nobody has met yet. For those we are building 
   <img src="./assets/seal.svg" width="380" alt="A round seal that moves. Eight points on a circle are numbered in beads, one to eight. A star joins them in counting order, and spiral arms fall from each point to the centre.">
 </p>
 
+<p align="center">
+  <img src="./assets/open-seal.svg" width="380" alt="A second round seal that moves, and this one has a gate. Eight half beads sit on a ring of fifty-seven places around a wall that stands open at the bottom. An outer ring carries eight more and steps round one place a beat. At each step exactly one of its halves meets one of ours, until once a turn all eight meet.">
+</p>
+
 Research transmissions are indexed under ORCID [0009-0008-9019-7631](https://orcid.org/0009-0008-9019-7631).
 
 <details>
