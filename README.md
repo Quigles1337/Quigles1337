@@ -91,6 +91,12 @@ Some signals will come from minds nobody has met yet. For those we are building 
   <img src="./assets/open-seal.svg" width="380" alt="A second round seal that moves, and this one has a gate. Eight half beads sit on a ring of fifty-seven places around a wall that stands open at the bottom. An outer ring carries eight more and steps round one place a beat. At each step exactly one of its halves meets one of ours, until once a turn all eight meet.">
 </p>
 
+<p align="center">
+  <img src="./assets/notice.svg" width="260" alt="A third seal, and this one has no wall. Sixteen rays count in beads from nothing to fifteen, and each ends in a sign of four places. A light turns round a rim of sixty-four such signs, one a beat, and the ray that carries each sign answers.">
+  <img src="./assets/token.svg" width="260" alt="A fourth seal: the ring of fifty-seven places again, in two arms that stand open at the bottom. Two walks leave the gate, a gold one round the ring and a violet star across it, and end on the same place. There a bead is half of each colour, and a clasp closes at the top.">
+  <img src="./assets/trial.svg" width="260" alt="A fifth seal: a balance tries every way to share three rods between two pans. Round it a light counts fourteen beads on open beams, one a beat, and goes out beside nine more that are shut in a chamber with no door.">
+</p>
+
 Research transmissions are indexed under ORCID [0009-0008-9019-7631](https://orcid.org/0009-0008-9019-7631).
 
 <details>
