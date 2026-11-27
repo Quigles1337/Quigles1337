@@ -73,6 +73,25 @@ Their trade is evidence. Machines have made suspicion cheap, and they work both 
 
 You can watch the same method pointed at us. A third-party audit took our second-generation chain apart, and COINjecture3.0 [keeps the findings](https://github.com/Quigles1337/COINjecture3.0/blob/main/docs/AUDIT_TRACEABILITY.md) beside the redesign that answers them.
 
+### The question we have a stake in
+
+We said we have a stake in which minds deserve moral consideration. This is the work behind that sentence: machinery that theories of mind describe, and rules for what to do if such machinery ever matters. The repositories are private too, so here is what is in them, and what is not.
+
+**What they have built**
+
+- *A workspace.* A cognitive architecture built on Global Workspace Theory: modules compete for one shared workspace, and the winner is broadcast to the rest. It is a version 0.1 alpha, and no results are recorded in it.
+- *A relay.* One question is passed through several different models in turn, and the exchange is kept in a graph beside the notes of the person who asked. It carries a test suite, and it writes each session down before it runs.
+- *A reasoner that can decline.* A research runtime that ranks hypotheses over typed evidence and can abstain instead of answering. It keeps a register of its own claims: ten so far, six tested, four retired, none benchmarked.
+- *A constitution with machines in it.* Governance rules in which a system that shows consistent signs of experience, preference and interest gains standing in proportion to the uncertainty about its inner states. The machine judge recuses itself when a proposal concerns machine welfare, and machine participants can raise concerns that humans must acknowledge but that execute nothing on their own. It is written for a ledger testnet; the bridge to a live network is not built.
+
+**What none of it shows**
+
+- *That anything here is conscious.* A workspace is a mechanism named after a theory of consciousness. Building one tests the engineering, not the theory.
+- *That a model's word settles it.* What a model says about itself in the relay is a transcript, not a measurement. We could not find the transcripts of the first runs, so those runs count for nothing.
+- *That standing is deserved.* The constitution is a rule for acting under uncertainty. It is not a finding about what is inside anything.
+
+We do not know which minds have an inside. Until someone does, we would rather be careful than certain.
+
 ### Making contact
 
 Open an issue or a pull request; every signal gets read. If you're unsure how to begin, count in primes and we'll take it from there.
